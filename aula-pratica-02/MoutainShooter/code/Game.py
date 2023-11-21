@@ -3,8 +3,6 @@
 import sys
 
 import pygame
-from pygame import Surface, Rect
-from pygame.font import Font
 
 from code.Const import WIN_WIDTH, WIN_HEIGHT, MENU_OPTION
 from code.Level import Level
